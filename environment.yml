@@ -1,0 +1,17 @@
+name: py39
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.19
+  - pytorch=2.3.0
+  - polars
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - tqdm
+  - ipywidgets
+  - requests
+  - pip
